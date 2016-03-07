@@ -6,4 +6,4 @@ Scription for API token.
 An API test using the SILEX
 
 
-<p align="center"><img src="http://i.giphy.com/3o7abDBYlUU0V3jEwE.gif" width="800" alt="Teste Terminal" /></p>
+<p align="center"><img src="http://i.giphy.com/3o7abDBYlUU0V3jEwE.gif" width="700" alt="Teste Terminal" /></p>
